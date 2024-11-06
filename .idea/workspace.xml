@@ -5,22 +5,84 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc47fe38-38fb-4e4e-b1e2-b2a4e409aa5d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/External_Json_file/body.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/UserData.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/UserData.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Feature/Registration_User.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Feature/Registration_User.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinition/Registration_StepDef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinition/Registration_StepDef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Util/RouteReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Util/RouteReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/api/endpoint/Routes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/endpoint/Routes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/api/endpoint/UserEndPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/endpoint/UserEndPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/api/endpoint/UserEndPoint1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/endpoint/UserEndPoint1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/api/payload/DDTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/payload/DDTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/api/payload/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/payload/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/api/test/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/test/UserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/api/test/UserTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/test/UserTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/api/utilities/DataProviders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/utilities/DataProviders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/api/utilities/XLUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/utilities/XLUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/External Json file/body.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Route.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Route.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XML Properties File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RestAssured_project" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1730888448" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="RestAssured_project" />
+                    <option name="lastUsedInstant" value="1730876767" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/StepDefinition/Registration_StepDef.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2oBo35f8DOoVxyveL4lYR6bexTo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -29,12 +91,92 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Cucumber Java.Feature: Login.executor": "Run",
+    "Cucumber Java.Feature: Login_GET_Request.executor": "Run",
+    "Cucumber Java.Feature: Registration_User.executor": "Run",
+    "JUnit.TestRunner.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.C:/Users/LENOVO/IdeaProjects/pava_RestAssured_Framework/testng.xml.executor": "Run",
+    "TestNG.DDTest.executor": "Run",
+    "TestNG.UserEndPoint1.executor": "Run",
+    "TestNG.UserTest.executor": "Run",
+    "TestNG.UserTest.test_PostUser.executor": "Run",
+    "TestNG.UserTest2.executor": "Run",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/LENOVO/IdeaProjects/pava_RestAssured_Framework/src/main/java/org/example/Main.java"
+    "last_opened_file_path": "C:/Users/LENOVO/IdeaProjects/pava_RestAssured_Framework/src/test/resources/External Json file",
+    "onboarding.tips.debug.path": "C:/Users/LENOVO/IdeaProjects/pava_RestAssured_Framework/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\IdeaProjects\pava_RestAssured_Framework\src\test\resources\External Json file" />
+      <recent name="C:\Users\LENOVO\IdeaProjects\pava_RestAssured_Framework\TestData" />
+      <recent name="C:\Users\LENOVO\IdeaProjects\pava_RestAssured_Framework" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\IdeaProjects\pava_RestAssured_Framework\TestData.xlsx" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Feature: Registration_User" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Feature/Registration_User.feature" />
+      <option name="GLUE" value="StepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Real_RestAssured_Framework" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Registration_User" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.test_PostUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Real_RestAssured_Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api.test" />
+      <option name="MAIN_CLASS_NAME" value="api.test.UserTest" />
+      <option name="METHOD_NAME" value="test_PostUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.UserTest.test_PostUser" />
+        <item itemvalue="Cucumber Java.Feature: Registration_User" />
+        <item itemvalue="Cucumber Java.Feature: Registration_User" />
+        <item itemvalue="TestNG.UserTest.test_PostUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,6 +187,17 @@
       <updated>1730352130383</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

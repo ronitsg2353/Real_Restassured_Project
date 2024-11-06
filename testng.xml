@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite">
+<test name="Pet_Test" thread-count="5">
+        <classes>
+            <class name="api.test.UserTest2"></class>
+        </classes>
+
+</test></suite>
